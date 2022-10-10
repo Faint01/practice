@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvInfo" type="id" />
+    <item name="editTextTextPersonName" type="id" />
+    <item name="lvMain" type="id" />
+    <item name="tvText" type="id" />
+    <item name="tvText1" type="id" />
+</resources>
